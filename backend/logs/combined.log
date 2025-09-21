@@ -1,0 +1,627 @@
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:03:54.665Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:03:54.674Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:03:54.675Z"}
+{"level":"info","message":"Starting APK scan - ID: b1552f7c-3178-45ec-ae9e-2e0c140311d2, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:15:28.351Z"}
+{"level":"info","message":"b1552f7c-3178-45ec-ae9e-2e0c140311d2: Starting basic APK analysis","timestamp":"2025-08-26T16:15:28.352Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:23:54.751Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:23:54.757Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:23:54.758Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:27:43.392Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:27:43.399Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:27:43.400Z"}
+{"level":"info","message":"Starting APK scan - ID: 06ba03a2-a723-41cb-bea8-30e5fd5763a1, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:27:55.764Z"}
+{"level":"info","message":"06ba03a2-a723-41cb-bea8-30e5fd5763a1: Starting basic APK analysis","timestamp":"2025-08-26T16:27:55.764Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:29:42.498Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:29:42.518Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:29:42.519Z"}
+{"level":"info","message":"Starting APK scan - ID: 523f61e0-bcb3-44a5-9c0d-9bfcaa41dbbc, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:29:45.954Z"}
+{"level":"info","message":"523f61e0-bcb3-44a5-9c0d-9bfcaa41dbbc: Starting basic APK analysis","timestamp":"2025-08-26T16:29:45.954Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:31:11.693Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:31:11.698Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:31:11.699Z"}
+{"level":"info","message":"Starting APK scan - ID: 0c734b9a-3bb6-48ae-9f66-0d7f998f5ae4, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:31:12.030Z"}
+{"level":"info","message":"0c734b9a-3bb6-48ae-9f66-0d7f998f5ae4: Starting basic APK analysis","timestamp":"2025-08-26T16:31:12.030Z"}
+{"level":"info","message":"Starting APK scan - ID: 542ff8ec-bbad-4212-9681-ac8e4142dbc1, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:31:15.617Z"}
+{"level":"info","message":"542ff8ec-bbad-4212-9681-ac8e4142dbc1: Starting basic APK analysis","timestamp":"2025-08-26T16:31:15.618Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:51:48.263Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:51:48.272Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:51:48.273Z"}
+{"level":"info","message":"Starting APK scan - ID: d6cbb425-3b19-4f8c-8c80-8f8f2c1af634, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:51:48.647Z"}
+{"level":"info","message":"d6cbb425-3b19-4f8c-8c80-8f8f2c1af634: Starting basic APK analysis","timestamp":"2025-08-26T16:51:48.648Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:52:05.188Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:52:05.197Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:52:05.198Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:52:08.498Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:52:08.503Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:52:08.506Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:52:29.703Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:52:29.709Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:52:29.710Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:52:39.052Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:52:39.062Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:52:39.064Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:52:50.095Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:52:50.103Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:52:50.105Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:53:15.367Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:53:15.375Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:53:15.376Z"}
+{"level":"info","message":"Starting APK scan - ID: a8a8a881-da33-443c-9535-f49f1a51db4a, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:53:23.277Z"}
+{"level":"info","message":"a8a8a881-da33-443c-9535-f49f1a51db4a: Starting basic APK analysis","timestamp":"2025-08-26T16:53:23.278Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:53:54.489Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:53:54.506Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:53:54.507Z"}
+{"level":"info","message":"Starting APK scan - ID: 2c296b32-d06a-4d28-93fd-e361f18c52e9, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:54:01.028Z"}
+{"level":"info","message":"2c296b32-d06a-4d28-93fd-e361f18c52e9: Starting basic APK analysis","timestamp":"2025-08-26T16:54:01.028Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:54:51.123Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:54:51.134Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:54:51.135Z"}
+{"level":"info","message":"Starting APK scan - ID: 04f68639-dd58-4b70-b06b-a198c28eda0a, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:54:54.174Z"}
+{"level":"info","message":"04f68639-dd58-4b70-b06b-a198c28eda0a: Starting basic APK analysis","timestamp":"2025-08-26T16:54:54.175Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:55:13.887Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:55:13.903Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:55:13.904Z"}
+{"level":"info","message":"Starting APK scan - ID: f84f3cc2-bcaf-4155-97d4-6b81fbddb052, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:55:14.487Z"}
+{"level":"info","message":"f84f3cc2-bcaf-4155-97d4-6b81fbddb052: Starting basic APK analysis","timestamp":"2025-08-26T16:55:14.488Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:55:33.938Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:55:33.945Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:55:33.945Z"}
+{"level":"info","message":"Starting APK scan - ID: 0eb43caa-e006-488d-ab20-d8c267c06357, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:55:40.454Z"}
+{"level":"info","message":"0eb43caa-e006-488d-ab20-d8c267c06357: Starting basic APK analysis","timestamp":"2025-08-26T16:55:40.454Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-26T16:56:40.961Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-26T16:56:40.968Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-26T16:56:40.970Z"}
+{"level":"info","message":"Starting APK scan - ID: c5c62efc-f241-41fd-b0e5-148610bcdbea, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-26T16:56:41.193Z"}
+{"level":"info","message":"c5c62efc-f241-41fd-b0e5-148610bcdbea: Starting basic APK analysis","timestamp":"2025-08-26T16:56:41.194Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:40:56.152Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:40:56.160Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:40:56.160Z"}
+{"code":"LIMIT_FILE_SIZE","field":"apk","level":"error","message":"Unhandled error: File too large","name":"MulterError","stack":"MulterError: File too large\n    at abortWithCode (C:\\cybershield\\node_modules\\multer\\lib\\make-middleware.js:85:22)\n    at FileStream.<anonymous> (C:\\cybershield\\node_modules\\multer\\lib\\make-middleware.js:155:11)\n    at FileStream.emit (node:events:507:28)\n    at SBMH.ssCb [as _cb] (C:\\cybershield\\node_modules\\busboy\\lib\\types\\multipart.js:479:32)\n    at feed (C:\\cybershield\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (C:\\cybershield\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (C:\\cybershield\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:570:12)\n    at _write (node:internal/streams/writable:499:10)\n    at Writable.write (node:internal/streams/writable:508:10)","storageErrors":[],"timestamp":"2025-08-27T15:41:46.319Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:45:30.934Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:45:30.943Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:45:30.944Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:49:18.745Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:49:18.752Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:49:18.756Z"}
+{"code":"LIMIT_FILE_SIZE","field":"apk","level":"error","message":"Unhandled error: File too large","name":"MulterError","stack":"MulterError: File too large\n    at abortWithCode (C:\\cybershield\\node_modules\\multer\\lib\\make-middleware.js:85:22)\n    at FileStream.<anonymous> (C:\\cybershield\\node_modules\\multer\\lib\\make-middleware.js:155:11)\n    at FileStream.emit (node:events:507:28)\n    at SBMH.ssCb [as _cb] (C:\\cybershield\\node_modules\\busboy\\lib\\types\\multipart.js:479:32)\n    at feed (C:\\cybershield\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (C:\\cybershield\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (C:\\cybershield\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:570:12)\n    at _write (node:internal/streams/writable:499:10)\n    at Writable.write (node:internal/streams/writable:508:10)","storageErrors":[],"timestamp":"2025-08-27T15:49:29.018Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:49:40.555Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:49:40.561Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:49:40.561Z"}
+{"level":"info","message":"Starting APK scan - ID: 0401e2a6-16a1-4354-8133-8d921f0d43d0, File: money.jupiter_3.0.7-357_minAPI23(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T15:49:43.464Z"}
+{"level":"info","message":"0401e2a6-16a1-4354-8133-8d921f0d43d0: Starting basic APK analysis","timestamp":"2025-08-27T15:49:43.465Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:51:39.068Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:51:39.075Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:51:39.076Z"}
+{"level":"info","message":"Starting APK scan - ID: d3b3d187-f78a-4a7c-b310-a5b31ac5950e, File: money.jupiter_3.0.7-357_minAPI23(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T15:51:42.376Z"}
+{"level":"info","message":"d3b3d187-f78a-4a7c-b310-a5b31ac5950e: Starting basic APK analysis","timestamp":"2025-08-27T15:51:42.376Z"}
+{"level":"info","message":"d3b3d187-f78a-4a7c-b310-a5b31ac5950e: Starting security scan","timestamp":"2025-08-27T15:51:42.964Z"}
+{"level":"info","message":"d3b3d187-f78a-4a7c-b310-a5b31ac5950e: Checking banking app characteristics","timestamp":"2025-08-27T15:51:44.586Z"}
+{"level":"info","message":"d3b3d187-f78a-4a7c-b310-a5b31ac5950e: Running threat intelligence checks","timestamp":"2025-08-27T15:51:44.588Z"}
+{"level":"info","message":"d3b3d187-f78a-4a7c-b310-a5b31ac5950e: Scan completed - Risk: high, Fake: false","timestamp":"2025-08-27T15:51:44.614Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"d3b3d187-f78a-4a7c-b310-a5b31ac5950e: Scan failed: Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:699:11)\n    at ServerResponse.header (C:\\cybershield\\node_modules\\express\\lib\\response.js:684:10)\n    at ServerResponse.send (C:\\cybershield\\node_modules\\express\\lib\\response.js:161:12)\n    at ServerResponse.json (C:\\cybershield\\node_modules\\express\\lib\\response.js:250:15)\n    at C:\\cybershield\\server.js:182:9","timestamp":"2025-08-27T15:51:44.618Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Failed to cleanup file: ENOENT: no such file or directory, unlink 'C:\\cybershield\\uploads\\1756309901104-217311079.apk'","path":"C:\\cybershield\\uploads\\1756309901104-217311079.apk","stack":"Error: ENOENT: no such file or directory, unlink 'C:\\cybershield\\uploads\\1756309901104-217311079.apk'\n    at async Object.unlink (node:internal/fs/promises:1060:10)\n    at async C:\\cybershield\\server.js:201:9","syscall":"unlink","timestamp":"2025-08-27T15:51:44.623Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"Unhandled error: Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:699:11)\n    at ServerResponse.header (C:\\cybershield\\node_modules\\express\\lib\\response.js:684:10)\n    at ServerResponse.send (C:\\cybershield\\node_modules\\express\\lib\\response.js:161:12)\n    at ServerResponse.json (C:\\cybershield\\node_modules\\express\\lib\\response.js:250:15)\n    at C:\\cybershield\\server.js:207:21","timestamp":"2025-08-27T15:51:44.626Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:52:18.416Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:52:18.422Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:52:18.422Z"}
+{"level":"info","message":"Starting APK scan - ID: ffb9f2e3-a1e6-41a7-a4ea-84464cc51984, File: money.jupiter_3.0.7-357_minAPI23(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T15:52:22.040Z"}
+{"level":"info","message":"ffb9f2e3-a1e6-41a7-a4ea-84464cc51984: Starting basic APK analysis","timestamp":"2025-08-27T15:52:22.043Z"}
+{"level":"info","message":"Starting APK scan - ID: f935ab39-5189-4462-ab40-6ae923093f08, File: money.jupiter_3.0.7-357_minAPI23(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T15:52:35.371Z"}
+{"level":"info","message":"f935ab39-5189-4462-ab40-6ae923093f08: Starting basic APK analysis","timestamp":"2025-08-27T15:52:35.371Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:53:17.171Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:53:17.175Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:53:17.176Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:53:24.983Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:53:24.989Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:53:24.990Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:53:33.852Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:53:33.858Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:53:33.859Z"}
+{"level":"info","message":"Starting APK scan - ID: 01d6048a-1b70-435f-80b6-cc99d3423639, File: money.jupiter_3.0.7-357_minAPI23(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T15:53:37.821Z"}
+{"level":"info","message":"01d6048a-1b70-435f-80b6-cc99d3423639: Starting basic APK analysis","timestamp":"2025-08-27T15:53:37.821Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:54:01.217Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:54:01.226Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:54:01.228Z"}
+{"level":"info","message":"Starting APK scan - ID: e6096327-8da9-461a-a450-c9db862db99b, File: money.jupiter_3.0.7-357_minAPI23(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T15:54:03.385Z"}
+{"level":"info","message":"e6096327-8da9-461a-a450-c9db862db99b: Starting basic APK analysis","timestamp":"2025-08-27T15:54:03.386Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:57:07.138Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:57:07.145Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:57:07.146Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:57:12.128Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:57:12.136Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:57:12.137Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:57:41.009Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:57:41.016Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:57:41.017Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:57:53.958Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:57:53.965Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:57:53.966Z"}
+{"body":"------WebKitFormBoundaryOTErptS58SxgE7ZB\r\nContent-Disposition: form-data; name=\"apk\"\r\n\r\n\r\n------WebKitFormBoundaryOTErptS58SxgE7ZB--\r\n","expose":true,"level":"error","message":"Unhandled error: Unexpected token '-', \"------WebK\"... is not valid JSON","stack":"SyntaxError: Unexpected token '-', \"------WebK\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at createStrictSyntaxError (C:\\cybershield\\node_modules\\body-parser\\lib\\types\\json.js:156:10)\n    at parse (C:\\cybershield\\node_modules\\body-parser\\lib\\types\\json.js:71:15)\n    at C:\\cybershield\\node_modules\\body-parser\\lib\\read.js:123:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)\n    at invokeCallback (C:\\cybershield\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\cybershield\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\cybershield\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:507:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)","status":400,"statusCode":400,"timestamp":"2025-08-27T15:58:03.495Z","type":"entity.parse.failed"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:58:50.577Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:58:50.584Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:58:50.584Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:59:16.117Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:59:16.124Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:59:16.124Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:59:28.117Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:59:28.123Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:59:28.124Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T15:59:55.904Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T15:59:55.911Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T15:59:55.912Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:01:03.030Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:01:03.035Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:01:03.036Z"}
+{"level":"error","message":"Unhandled error: Unexpected end of form","stack":"Error: Unexpected end of form\n    at Multipart._final (C:\\cybershield\\node_modules\\busboy\\lib\\types\\multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:621:28)\n    at IncomingMessage.emit (node:events:507:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","storageErrors":[],"timestamp":"2025-08-27T16:01:27.663Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:03:51.374Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:03:51.383Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:03:51.384Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:07:20.706Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:07:20.713Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:07:20.714Z"}
+{"level":"info","message":"Starting APK scan - ID: cd94c3d4-a7be-4cad-8795-bda5f2a0a679, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T16:07:21.063Z"}
+{"level":"info","message":"cd94c3d4-a7be-4cad-8795-bda5f2a0a679: Starting basic APK analysis","timestamp":"2025-08-27T16:07:21.064Z"}
+{"level":"info","message":"Starting APK scan - ID: 615c40b7-c300-4185-b699-dd3908d295c3, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T16:09:12.473Z"}
+{"level":"info","message":"615c40b7-c300-4185-b699-dd3908d295c3: Starting basic APK analysis","timestamp":"2025-08-27T16:09:12.474Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:09:33.993Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:09:33.998Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:09:33.998Z"}
+{"level":"info","message":"Starting APK scan - ID: ed2c44f4-55da-40a5-92b2-f6668b47f8a9, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T16:09:59.049Z"}
+{"level":"info","message":"ed2c44f4-55da-40a5-92b2-f6668b47f8a9: Starting basic APK analysis","timestamp":"2025-08-27T16:09:59.049Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:11:40.831Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:11:40.836Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:11:40.837Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:12:02.810Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:12:02.816Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:12:02.817Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:12:20.963Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:12:20.971Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:12:20.972Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:13:31.751Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:13:31.756Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:13:31.756Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:13:56.204Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:13:56.209Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:13:56.210Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:14:53.763Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:14:53.768Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:14:53.769Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:15:21.651Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:15:21.656Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:15:21.657Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:15:49.663Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:15:49.668Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:15:49.668Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:16:19.508Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:16:19.513Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:16:19.514Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:17:26.313Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:17:26.319Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:17:26.319Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:18:15.644Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:18:15.649Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:18:15.649Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:18:26.103Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:18:26.110Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:18:26.111Z"}
+{"level":"info","message":"Starting APK scan - ID: 43aab499-6517-486d-ae3b-7f19cbf643cd, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T16:18:49.123Z"}
+{"level":"info","message":"43aab499-6517-486d-ae3b-7f19cbf643cd: Starting basic APK analysis","timestamp":"2025-08-27T16:18:49.124Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:19:35.855Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:19:35.861Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:19:35.861Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:27:26.608Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:27:26.617Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:27:26.618Z"}
+{"level":"info","message":"Starting APK scan - ID: c7bc4376-ad47-4529-85d9-016504837632, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T16:27:52.816Z"}
+{"level":"info","message":"c7bc4376-ad47-4529-85d9-016504837632: Starting basic APK analysis","timestamp":"2025-08-27T16:27:52.816Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:29:00.648Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:29:00.655Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:29:00.656Z"}
+{"level":"info","message":"Starting APK scan - ID: eafb3702-64f1-4abf-80b3-25387699a6b1, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T16:29:52.745Z"}
+{"level":"info","message":"eafb3702-64f1-4abf-80b3-25387699a6b1: Starting basic APK analysis","timestamp":"2025-08-27T16:29:52.745Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:30:34.140Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:30:34.148Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:30:34.149Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:30:48.945Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:30:48.951Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:30:48.952Z"}
+{"level":"error","message":"Unhandled error: Multipart: Boundary not found","stack":"Error: Multipart: Boundary not found\n    at new Multipart (C:\\cybershield\\node_modules\\busboy\\lib\\types\\multipart.js:233:13)\n    at getInstance (C:\\cybershield\\node_modules\\busboy\\lib\\index.js:33:12)\n    at module.exports (C:\\cybershield\\node_modules\\busboy\\lib\\index.js:56:10)\n    at multerMiddleware (C:\\cybershield\\node_modules\\multer\\lib\\make-middleware.js:38:16)\n    at Layer.handleRequest (C:\\cybershield\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\cybershield\\node_modules\\router\\lib\\route.js:157:13)\n    at rateLimitMiddleware (C:\\cybershield\\server.js:100:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-27T16:30:55.221Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:31:10.409Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:31:10.414Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:31:10.415Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:31:35.726Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:31:35.734Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:31:35.735Z"}
+{"level":"error","message":"4ed22bef-9807-480e-a098-390bb1d7f5e4: Scan failed: Cannot read properties of undefined (reading 'originalname')","stack":"TypeError: Cannot read properties of undefined (reading 'originalname')\n    at C:\\cybershield\\server.js:122:70\n    at Layer.handleRequest (C:\\cybershield\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\cybershield\\node_modules\\router\\lib\\route.js:157:13)\n    at rateLimitMiddleware (C:\\cybershield\\server.js:100:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-27T16:31:35.966Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Failed to cleanup file: ENOENT: no such file or directory, unlink 'C:\\uploads\\1756310840942-391671009.apk'","path":"C:\\uploads\\1756310840942-391671009.apk","stack":"Error: ENOENT: no such file or directory, unlink 'C:\\uploads\\1756310840942-391671009.apk'\n    at async Object.unlink (node:internal/fs/promises:1060:10)\n    at async C:\\cybershield\\server.js:206:9","syscall":"unlink","timestamp":"2025-08-27T16:31:35.970Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:31:56.126Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:31:56.131Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:31:56.132Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:32:34.495Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:32:34.502Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:32:34.503Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:32:35.285Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:32:35.291Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:32:35.292Z"}
+{"level":"info","message":"Starting APK scan - ID: 7180394c-524f-418c-80b9-ac3cf3c2aeaa, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:32:42.776Z"}
+{"level":"info","message":"7180394c-524f-418c-80b9-ac3cf3c2aeaa: Starting basic APK analysis","timestamp":"2025-08-27T16:32:42.776Z"}
+{"level":"error","message":"7180394c-524f-418c-80b9-ac3cf3c2aeaa: Scan failed: APK analysis failed: ENOENT: no such file or directory, stat 'C:\\uploads\\1756310840942-391671009.apk'","stack":"Error: APK analysis failed: ENOENT: no such file or directory, stat 'C:\\uploads\\1756310840942-391671009.apk'\n    at APKAnalyzer.analyzeAPK (C:\\cybershield\\services\\apkAnalyzer.js:64:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\cybershield\\server.js:140:21","timestamp":"2025-08-27T16:32:42.784Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Failed to cleanup file: ENOENT: no such file or directory, unlink 'C:\\uploads\\1756310840942-391671009.apk'","path":"C:\\uploads\\1756310840942-391671009.apk","stack":"Error: ENOENT: no such file or directory, unlink 'C:\\uploads\\1756310840942-391671009.apk'\n    at async Object.unlink (node:internal/fs/promises:1060:10)\n    at async C:\\cybershield\\server.js:207:9","syscall":"unlink","timestamp":"2025-08-27T16:32:42.787Z"}
+{"level":"info","message":"Starting APK scan - ID: e38b945f-e0df-4516-b045-b09fccc74264, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:32:43.488Z"}
+{"level":"info","message":"e38b945f-e0df-4516-b045-b09fccc74264: Starting basic APK analysis","timestamp":"2025-08-27T16:32:43.489Z"}
+{"level":"error","message":"e38b945f-e0df-4516-b045-b09fccc74264: Scan failed: APK analysis failed: ENOENT: no such file or directory, stat 'C:\\uploads\\1756310840942-391671009.apk'","stack":"Error: APK analysis failed: ENOENT: no such file or directory, stat 'C:\\uploads\\1756310840942-391671009.apk'\n    at APKAnalyzer.analyzeAPK (C:\\cybershield\\services\\apkAnalyzer.js:64:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\cybershield\\server.js:140:21","timestamp":"2025-08-27T16:32:43.491Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Failed to cleanup file: ENOENT: no such file or directory, unlink 'C:\\uploads\\1756310840942-391671009.apk'","path":"C:\\uploads\\1756310840942-391671009.apk","stack":"Error: ENOENT: no such file or directory, unlink 'C:\\uploads\\1756310840942-391671009.apk'\n    at async Object.unlink (node:internal/fs/promises:1060:10)\n    at async C:\\cybershield\\server.js:207:9","syscall":"unlink","timestamp":"2025-08-27T16:32:43.491Z"}
+{"level":"info","message":"Starting APK scan - ID: e1cb85b2-ae8d-4f05-a79b-5981121160db, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:32:43.729Z"}
+{"level":"info","message":"e1cb85b2-ae8d-4f05-a79b-5981121160db: Starting basic APK analysis","timestamp":"2025-08-27T16:32:43.730Z"}
+{"level":"error","message":"e1cb85b2-ae8d-4f05-a79b-5981121160db: Scan failed: APK analysis failed: ENOENT: no such file or directory, stat 'C:\\uploads\\1756310840942-391671009.apk'","stack":"Error: APK analysis failed: ENOENT: no such file or directory, stat 'C:\\uploads\\1756310840942-391671009.apk'\n    at APKAnalyzer.analyzeAPK (C:\\cybershield\\services\\apkAnalyzer.js:64:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\cybershield\\server.js:140:21","timestamp":"2025-08-27T16:32:43.732Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Failed to cleanup file: ENOENT: no such file or directory, unlink 'C:\\uploads\\1756310840942-391671009.apk'","path":"C:\\uploads\\1756310840942-391671009.apk","stack":"Error: ENOENT: no such file or directory, unlink 'C:\\uploads\\1756310840942-391671009.apk'\n    at async Object.unlink (node:internal/fs/promises:1060:10)\n    at async C:\\cybershield\\server.js:207:9","syscall":"unlink","timestamp":"2025-08-27T16:32:43.733Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:33:05.363Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:33:05.369Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:33:05.369Z"}
+{"level":"info","message":"Starting APK scan - ID: dc0e6e2a-303e-46a5-94a6-931e5f32f00b, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:33:07.467Z"}
+{"level":"info","message":"dc0e6e2a-303e-46a5-94a6-931e5f32f00b: Starting basic APK analysis","timestamp":"2025-08-27T16:33:07.468Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:33:49.466Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:33:49.475Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:33:49.476Z"}
+{"level":"info","message":"Starting APK scan - ID: 9388b21d-c964-45bc-ae3e-281047a3c2aa, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:33:55.901Z"}
+{"level":"info","message":"9388b21d-c964-45bc-ae3e-281047a3c2aa: Starting basic APK analysis","timestamp":"2025-08-27T16:33:55.901Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:34:09.525Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:34:09.530Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:34:09.531Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:35:15.898Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:35:15.905Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:35:15.906Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:35:27.729Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:35:27.736Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:35:27.737Z"}
+{"level":"info","message":"Starting APK scan - ID: 4f4f5eb4-678b-40c9-a326-3c0a330cebd5, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:35:28.544Z"}
+{"level":"info","message":"4f4f5eb4-678b-40c9-a326-3c0a330cebd5: Starting basic APK analysis","timestamp":"2025-08-27T16:35:28.546Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:35:40.514Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:35:40.522Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:35:40.523Z"}
+{"level":"info","message":"Starting APK scan - ID: a2e95ebe-86cd-42b7-81dc-f74dcba7a1f7, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:35:40.785Z"}
+{"level":"info","message":"a2e95ebe-86cd-42b7-81dc-f74dcba7a1f7: Starting basic APK analysis","timestamp":"2025-08-27T16:35:40.785Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:36:12.303Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:36:12.311Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:36:12.312Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:36:19.836Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:36:19.842Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:36:19.842Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:36:41.498Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:36:41.505Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:36:41.506Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:37:13.782Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:37:13.787Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:37:13.788Z"}
+{"level":"info","message":"Starting APK scan - ID: ddb010d6-bdd2-4cd5-ae48-47bfac73b053, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:37:18.393Z"}
+{"level":"info","message":"ddb010d6-bdd2-4cd5-ae48-47bfac73b053: Starting basic APK analysis","timestamp":"2025-08-27T16:37:18.393Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:38:18.248Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:38:18.254Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:38:18.255Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:38:47.410Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:38:47.416Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:38:47.417Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:40:39.752Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:40:39.757Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:40:39.758Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:41:20.865Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:41:20.871Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:41:20.871Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:41:35.547Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:41:35.553Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:41:35.554Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:41:47.556Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:41:47.562Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:41:47.563Z"}
+{"level":"info","message":"Starting APK scan - ID: a4361ffb-5929-4256-bac1-f34ccecc5871, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:41:51.365Z"}
+{"level":"info","message":"a4361ffb-5929-4256-bac1-f34ccecc5871: Starting basic APK analysis","timestamp":"2025-08-27T16:41:51.366Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:43:10.435Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:43:10.444Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:43:10.445Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:43:11.810Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:43:11.817Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:43:11.817Z"}
+{"level":"info","message":"Starting APK scan - ID: 3777020e-5470-4bb4-ac75-5637951c5dd5, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:43:12.614Z"}
+{"level":"info","message":"3777020e-5470-4bb4-ac75-5637951c5dd5: Starting basic APK analysis","timestamp":"2025-08-27T16:43:12.616Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:43:40.116Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:43:40.121Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:43:40.122Z"}
+{"level":"info","message":"Starting APK scan - ID: 76749eac-3699-4190-94fc-ed7de7345b3e, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:43:40.664Z"}
+{"level":"info","message":"76749eac-3699-4190-94fc-ed7de7345b3e: Starting basic APK analysis","timestamp":"2025-08-27T16:43:40.664Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:43:58.648Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:43:58.655Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:43:58.656Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:44:18.007Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:44:18.013Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:44:18.013Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:44:46.144Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:44:46.149Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:44:46.150Z"}
+{"level":"info","message":"Starting APK scan - ID: 768cb084-8abb-48ac-ab4c-ce47b39ce481, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:44:48.171Z"}
+{"level":"info","message":"768cb084-8abb-48ac-ab4c-ce47b39ce481: Starting basic APK analysis","timestamp":"2025-08-27T16:44:48.172Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:47:04.791Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:47:04.798Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:47:04.800Z"}
+{"level":"info","message":"Starting APK scan - ID: 819a5642-e074-400a-a736-98a5e9e9df6a, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:47:06.738Z"}
+{"level":"info","message":"819a5642-e074-400a-a736-98a5e9e9df6a: Starting basic APK analysis","timestamp":"2025-08-27T16:47:06.739Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:47:57.090Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:47:57.095Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:47:57.096Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:48:33.542Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:48:33.549Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:48:33.550Z"}
+{"level":"info","message":"Starting APK scan - ID: eff37b25-0dfc-43b1-a583-814b983ac040, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:48:37.735Z"}
+{"level":"info","message":"eff37b25-0dfc-43b1-a583-814b983ac040: Starting basic APK analysis","timestamp":"2025-08-27T16:48:37.735Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:49:05.428Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:49:05.440Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:49:05.441Z"}
+{"level":"info","message":"Starting APK scan - ID: e2c21bf1-6179-4101-99fa-1b84aac54568, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:49:07.176Z"}
+{"level":"info","message":"e2c21bf1-6179-4101-99fa-1b84aac54568: Starting basic APK analysis","timestamp":"2025-08-27T16:49:07.177Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:49:20.137Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:49:20.146Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:49:20.146Z"}
+{"level":"info","message":"Starting APK scan - ID: 87780f31-216c-4792-8646-c38f125c621a, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:49:22.494Z"}
+{"level":"info","message":"87780f31-216c-4792-8646-c38f125c621a: Starting basic APK analysis","timestamp":"2025-08-27T16:49:22.494Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:50:40.960Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:50:40.966Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:50:40.967Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:50:59.730Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:50:59.736Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:50:59.736Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:52:11.984Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:52:11.990Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:52:11.990Z"}
+{"level":"info","message":"Starting APK scan - ID: 46cea0c4-2813-4dfb-bbdc-9f9a3349b23f, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:52:13.793Z"}
+{"level":"info","message":"46cea0c4-2813-4dfb-bbdc-9f9a3349b23f: Starting basic APK analysis","timestamp":"2025-08-27T16:52:13.794Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:53:34.892Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:53:34.897Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:53:34.898Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:53:37.158Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:53:37.165Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:53:37.165Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:53:42.525Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:53:42.529Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:53:42.530Z"}
+{"level":"info","message":"Starting APK scan - ID: 9ce9d59e-7f6c-4994-8f4b-6fe51db614ee, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:54:55.812Z"}
+{"level":"info","message":"9ce9d59e-7f6c-4994-8f4b-6fe51db614ee: Starting basic APK analysis","timestamp":"2025-08-27T16:54:55.813Z"}
+{"level":"info","message":"9ce9d59e-7f6c-4994-8f4b-6fe51db614ee: Starting security scan","timestamp":"2025-08-27T16:54:57.141Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:55:39.723Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:55:39.729Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:55:39.729Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:56:15.272Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:56:15.278Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:56:15.278Z"}
+{"level":"info","message":"Starting APK scan - ID: 532f4166-22ca-4ee8-a246-4601a354460b, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:56:17.520Z"}
+{"level":"info","message":"532f4166-22ca-4ee8-a246-4601a354460b: Starting basic APK analysis","timestamp":"2025-08-27T16:56:17.521Z"}
+{"level":"info","message":"532f4166-22ca-4ee8-a246-4601a354460b: Starting security scan","timestamp":"2025-08-27T16:56:18.811Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:57:02.852Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:57:02.857Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:57:02.858Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:57:11.886Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:57:11.892Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:57:11.893Z"}
+{"level":"info","message":"Starting APK scan - ID: 3176d555-b992-4a27-a156-fbe54fef0541, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:57:14.725Z"}
+{"level":"info","message":"3176d555-b992-4a27-a156-fbe54fef0541: Starting basic APK analysis","timestamp":"2025-08-27T16:57:14.725Z"}
+{"level":"info","message":"3176d555-b992-4a27-a156-fbe54fef0541: Starting security scan","timestamp":"2025-08-27T16:57:16.049Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:59:23.911Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:59:23.917Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:59:23.918Z"}
+{"level":"info","message":"Starting APK scan - ID: f1582834-eb90-49d3-8def-8e209b4f6f6e, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T16:59:25.930Z"}
+{"level":"info","message":"f1582834-eb90-49d3-8def-8e209b4f6f6e: Starting basic APK analysis","timestamp":"2025-08-27T16:59:25.931Z"}
+{"level":"info","message":"f1582834-eb90-49d3-8def-8e209b4f6f6e: Starting security scan","timestamp":"2025-08-27T16:59:27.377Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T16:59:55.817Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T16:59:55.824Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T16:59:55.824Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:00:24.623Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:00:24.629Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:00:24.629Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:01:45.401Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:01:45.407Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:01:45.408Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:02:06.247Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:02:06.252Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:02:06.255Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:03:35.317Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:03:35.322Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:03:35.323Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:05:16.463Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:05:16.469Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:05:16.470Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:05:58.410Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:05:58.420Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:05:58.421Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:06:21.047Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:06:21.052Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:06:21.053Z"}
+{"level":"info","message":"Starting APK scan - ID: a582c332-052c-445d-be20-a4f80b387309, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T17:06:26.213Z"}
+{"level":"info","message":"a582c332-052c-445d-be20-a4f80b387309: Starting basic APK analysis","timestamp":"2025-08-27T17:06:26.213Z"}
+{"level":"info","message":"a582c332-052c-445d-be20-a4f80b387309: Starting security scan","timestamp":"2025-08-27T17:06:27.533Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:07:36.638Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:07:36.642Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:07:36.643Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:08:42.536Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:08:42.541Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:08:42.541Z"}
+{"level":"info","message":"Starting APK scan - ID: 07268c83-b1c6-4dad-bdfe-a70dd3fdd0ba, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T17:16:55.426Z"}
+{"level":"info","message":"07268c83-b1c6-4dad-bdfe-a70dd3fdd0ba: Starting basic APK analysis","timestamp":"2025-08-27T17:16:55.428Z"}
+{"level":"info","message":"07268c83-b1c6-4dad-bdfe-a70dd3fdd0ba: Starting security scan","timestamp":"2025-08-27T17:16:56.810Z"}
+{"level":"info","message":"07268c83-b1c6-4dad-bdfe-a70dd3fdd0ba: Checking banking app characteristics","timestamp":"2025-08-27T17:16:58.042Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:17:25.855Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:17:25.860Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:17:25.861Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:17:32.863Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:17:32.868Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:17:32.868Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:17:39.037Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:17:39.042Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:17:39.042Z"}
+{"level":"info","message":"Starting APK scan - ID: 55f8f734-6bfb-4c2a-bd88-d464372bdfd6, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T17:17:40.827Z"}
+{"level":"info","message":"55f8f734-6bfb-4c2a-bd88-d464372bdfd6: Starting basic APK analysis","timestamp":"2025-08-27T17:17:40.828Z"}
+{"level":"info","message":"55f8f734-6bfb-4c2a-bd88-d464372bdfd6: Starting security scan","timestamp":"2025-08-27T17:17:42.072Z"}
+{"level":"info","message":"55f8f734-6bfb-4c2a-bd88-d464372bdfd6: Checking banking app characteristics","timestamp":"2025-08-27T17:17:42.598Z"}
+{"level":"info","message":"55f8f734-6bfb-4c2a-bd88-d464372bdfd6: Running threat intelligence checks","timestamp":"2025-08-27T17:17:42.599Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:21:10.535Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:21:10.541Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:21:10.541Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:21:24.943Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:21:24.948Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:21:24.948Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:21:39.837Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:21:39.842Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:21:39.843Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:22:06.386Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:22:06.391Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:22:06.391Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:22:15.342Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:22:15.352Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:22:15.352Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:22:16.706Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:22:16.711Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:22:16.712Z"}
+{"level":"info","message":"Starting APK scan - ID: 2037e79d-d425-4dbe-a916-ca58ede74abb, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T17:22:46.872Z"}
+{"level":"info","message":"2037e79d-d425-4dbe-a916-ca58ede74abb: Starting basic APK analysis","timestamp":"2025-08-27T17:22:46.872Z"}
+{"level":"info","message":"2037e79d-d425-4dbe-a916-ca58ede74abb: Starting security scan","timestamp":"2025-08-27T17:22:48.089Z"}
+{"level":"info","message":"2037e79d-d425-4dbe-a916-ca58ede74abb: Checking banking app characteristics","timestamp":"2025-08-27T17:22:48.574Z"}
+{"level":"info","message":"2037e79d-d425-4dbe-a916-ca58ede74abb: Running threat intelligence checks","timestamp":"2025-08-27T17:22:48.575Z"}
+{"level":"info","message":"Starting APK scan - ID: 5609f29a-38b7-4ca3-9cb7-1f7897cfd2f6, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T17:25:55.015Z"}
+{"level":"info","message":"5609f29a-38b7-4ca3-9cb7-1f7897cfd2f6: Starting basic APK analysis","timestamp":"2025-08-27T17:25:55.022Z"}
+{"level":"info","message":"5609f29a-38b7-4ca3-9cb7-1f7897cfd2f6: Starting security scan","timestamp":"2025-08-27T17:25:57.886Z"}
+{"level":"info","message":"5609f29a-38b7-4ca3-9cb7-1f7897cfd2f6: Checking banking app characteristics","timestamp":"2025-08-27T17:25:58.846Z"}
+{"level":"info","message":"5609f29a-38b7-4ca3-9cb7-1f7897cfd2f6: Running threat intelligence checks","timestamp":"2025-08-27T17:25:58.847Z"}
+{"level":"info","message":"Starting APK scan - ID: 305a59ec-0e8a-40c7-bc08-5af9c68d51b4, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T17:28:12.209Z"}
+{"level":"info","message":"305a59ec-0e8a-40c7-bc08-5af9c68d51b4: Starting basic APK analysis","timestamp":"2025-08-27T17:28:12.210Z"}
+{"level":"info","message":"305a59ec-0e8a-40c7-bc08-5af9c68d51b4: Starting security scan","timestamp":"2025-08-27T17:28:13.462Z"}
+{"level":"info","message":"305a59ec-0e8a-40c7-bc08-5af9c68d51b4: Checking banking app characteristics","timestamp":"2025-08-27T17:28:13.968Z"}
+{"level":"info","message":"305a59ec-0e8a-40c7-bc08-5af9c68d51b4: Running threat intelligence checks","timestamp":"2025-08-27T17:28:13.969Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:29:40.101Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:29:40.114Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:29:40.115Z"}
+{"level":"info","message":"Starting APK scan - ID: 7f119a53-c1af-4393-9bdf-8500fa4b6f9c, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T17:30:17.994Z"}
+{"level":"info","message":"7f119a53-c1af-4393-9bdf-8500fa4b6f9c: Starting basic APK analysis","timestamp":"2025-08-27T17:30:17.995Z"}
+{"level":"info","message":"7f119a53-c1af-4393-9bdf-8500fa4b6f9c: Starting security scan","timestamp":"2025-08-27T17:30:19.358Z"}
+{"level":"info","message":"7f119a53-c1af-4393-9bdf-8500fa4b6f9c: Checking banking app characteristics","timestamp":"2025-08-27T17:30:19.929Z"}
+{"level":"info","message":"7f119a53-c1af-4393-9bdf-8500fa4b6f9c: Running threat intelligence checks","timestamp":"2025-08-27T17:30:19.931Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:31:16.901Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:31:16.908Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:31:16.909Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:31:49.135Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:31:49.140Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:31:49.141Z"}
+{"level":"info","message":"Starting APK scan - ID: e98b888b-bcd4-4dda-834e-11a261c9c3a5, File: 1756310840942-391671009.apk","timestamp":"2025-08-27T17:31:51.814Z"}
+{"level":"info","message":"e98b888b-bcd4-4dda-834e-11a261c9c3a5: Starting basic APK analysis","timestamp":"2025-08-27T17:31:51.815Z"}
+{"level":"info","message":"e98b888b-bcd4-4dda-834e-11a261c9c3a5: Starting security scan","timestamp":"2025-08-27T17:31:53.038Z"}
+{"level":"info","message":"e98b888b-bcd4-4dda-834e-11a261c9c3a5: Checking banking app characteristics","timestamp":"2025-08-27T17:31:53.556Z"}
+{"level":"info","message":"e98b888b-bcd4-4dda-834e-11a261c9c3a5: Running threat intelligence checks","timestamp":"2025-08-27T17:31:53.557Z"}
+{"level":"info","message":"e98b888b-bcd4-4dda-834e-11a261c9c3a5: Scan completed - Risk: medium, Fake: false","timestamp":"2025-08-27T17:31:56.602Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:38:22.680Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:38:22.691Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:38:22.692Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:38:25.452Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:38:25.460Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:38:25.461Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:38:26.565Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:38:26.574Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:38:26.574Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:38:39.625Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:38:39.631Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:38:39.631Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:38:41.228Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:38:41.234Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:38:41.235Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:38:58.806Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:38:58.815Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:38:58.816Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:39:01.164Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:39:01.171Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:39:01.172Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:39:06.239Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:39:06.246Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:39:06.256Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:39:14.313Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:39:14.321Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:39:14.322Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:46:56.204Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:46:56.215Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:46:56.216Z"}
+{"level":"error","message":"Unhandled error: Multipart: Boundary not found","stack":"Error: Multipart: Boundary not found\n    at new Multipart (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\types\\multipart.js:233:13)\n    at getInstance (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\index.js:33:12)\n    at module.exports (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\index.js:56:10)\n    at multerMiddleware (C:\\cybershield\\backend\\node_modules\\multer\\lib\\make-middleware.js:38:16)\n    at Layer.handleRequest (C:\\cybershield\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\cybershield\\backend\\node_modules\\router\\lib\\route.js:157:13)\n    at rateLimitMiddleware (C:\\cybershield\\backend\\server.js:100:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-27T17:47:04.629Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:47:37.558Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:47:37.572Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:47:37.573Z"}
+{"level":"error","message":"Unhandled error: Multipart: Boundary not found","stack":"Error: Multipart: Boundary not found\n    at new Multipart (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\types\\multipart.js:233:13)\n    at getInstance (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\index.js:33:12)\n    at module.exports (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\index.js:56:10)\n    at multerMiddleware (C:\\cybershield\\backend\\node_modules\\multer\\lib\\make-middleware.js:38:16)\n    at Layer.handleRequest (C:\\cybershield\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\cybershield\\backend\\node_modules\\router\\lib\\route.js:157:13)\n    at rateLimitMiddleware (C:\\cybershield\\backend\\server.js:100:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-27T17:47:38.620Z"}
+{"level":"error","message":"Unhandled error: Multipart: Boundary not found","stack":"Error: Multipart: Boundary not found\n    at new Multipart (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\types\\multipart.js:233:13)\n    at getInstance (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\index.js:33:12)\n    at module.exports (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\index.js:56:10)\n    at multerMiddleware (C:\\cybershield\\backend\\node_modules\\multer\\lib\\make-middleware.js:38:16)\n    at Layer.handleRequest (C:\\cybershield\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\cybershield\\backend\\node_modules\\router\\lib\\route.js:157:13)\n    at rateLimitMiddleware (C:\\cybershield\\backend\\server.js:100:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-27T17:47:44.798Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-08-27T17:48:05.680Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-08-27T17:48:05.690Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-08-27T17:48:05.690Z"}
+{"level":"error","message":"Unhandled error: Multipart: Boundary not found","stack":"Error: Multipart: Boundary not found\n    at new Multipart (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\types\\multipart.js:233:13)\n    at getInstance (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\index.js:33:12)\n    at module.exports (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\index.js:56:10)\n    at multerMiddleware (C:\\cybershield\\backend\\node_modules\\multer\\lib\\make-middleware.js:38:16)\n    at Layer.handleRequest (C:\\cybershield\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\cybershield\\backend\\node_modules\\router\\lib\\route.js:157:13)\n    at rateLimitMiddleware (C:\\cybershield\\backend\\server.js:100:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-27T17:48:07.159Z"}
+{"level":"error","message":"Unhandled error: Multipart: Boundary not found","stack":"Error: Multipart: Boundary not found\n    at new Multipart (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\types\\multipart.js:233:13)\n    at getInstance (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\index.js:33:12)\n    at module.exports (C:\\cybershield\\backend\\node_modules\\busboy\\lib\\index.js:56:10)\n    at multerMiddleware (C:\\cybershield\\backend\\node_modules\\multer\\lib\\make-middleware.js:38:16)\n    at Layer.handleRequest (C:\\cybershield\\backend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\cybershield\\backend\\node_modules\\router\\lib\\route.js:157:13)\n    at rateLimitMiddleware (C:\\cybershield\\backend\\server.js:100:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-27T17:48:07.903Z"}
+{"level":"info","message":"Starting APK scan - ID: 1bb10759-6f61-4769-9dbf-df1521ec7cd2, File: com.google.android.apps.youtube.music_2.11.57-21157310_minAPI16(armeabi)(nodpi)_apkmirror.com.apk","timestamp":"2025-08-27T17:48:49.174Z"}
+{"level":"info","message":"1bb10759-6f61-4769-9dbf-df1521ec7cd2: Starting basic APK analysis","timestamp":"2025-08-27T17:48:49.174Z"}
+{"level":"info","message":"1bb10759-6f61-4769-9dbf-df1521ec7cd2: Starting security scan","timestamp":"2025-08-27T17:48:50.856Z"}
+{"level":"info","message":"1bb10759-6f61-4769-9dbf-df1521ec7cd2: Checking banking app characteristics","timestamp":"2025-08-27T17:48:51.671Z"}
+{"level":"info","message":"1bb10759-6f61-4769-9dbf-df1521ec7cd2: Running threat intelligence checks","timestamp":"2025-08-27T17:48:51.672Z"}
+{"level":"info","message":"1bb10759-6f61-4769-9dbf-df1521ec7cd2: Scan completed - Risk: medium, Fake: false","timestamp":"2025-08-27T17:48:55.190Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T14:36:03.870Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T14:36:03.883Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-21T14:36:03.885Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T14:39:26.911Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T14:39:26.923Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-21T14:39:26.924Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T14:43:25.053Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T14:43:25.066Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-21T14:43:25.067Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T14:52:14.188Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T14:52:14.203Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-21T14:52:14.207Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758466355457-164278630.apk'","path":"C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758466355457-164278630.apk","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758466355457-164278630.apk'","storageErrors":[],"syscall":"open","timestamp":"2025-09-21T14:52:35.465Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T14:55:58.335Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T14:55:58.347Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-21T14:55:58.349Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T15:03:04.112Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T15:03:04.135Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-21T15:03:04.139Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467025326-102043048.apk'","path":"C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467025326-102043048.apk","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467025326-102043048.apk'","storageErrors":[],"syscall":"open","timestamp":"2025-09-21T15:03:45.333Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467191979-842729310.apk'","path":"C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467191979-842729310.apk","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467191979-842729310.apk'","storageErrors":[],"syscall":"open","timestamp":"2025-09-21T15:06:31.985Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T15:09:13.903Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T15:09:13.920Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-21T15:09:13.924Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467366240-813313133.apk'","path":"C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467366240-813313133.apk","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467366240-813313133.apk'","storageErrors":[],"syscall":"open","timestamp":"2025-09-21T15:09:26.247Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467428016-251006475.apk'","path":"C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467428016-251006475.apk","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758467428016-251006475.apk'","storageErrors":[],"syscall":"open","timestamp":"2025-09-21T15:10:28.020Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T15:41:12.374Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T15:41:12.386Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-21T15:41:12.390Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469292266-293043476.apk'","path":"C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469292266-293043476.apk","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469292266-293043476.apk'","storageErrors":[],"syscall":"open","timestamp":"2025-09-21T15:41:32.274Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469365678-608509775.apk'","path":"C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469365678-608509775.apk","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469365678-608509775.apk'","storageErrors":[],"syscall":"open","timestamp":"2025-09-21T15:42:45.693Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T15:46:55.858Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T15:46:55.877Z"}
+{"level":"info","message":"Environment: development","timestamp":"2025-09-21T15:46:55.883Z"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"Unhandled error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469634058-497949964.apk'","path":"C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469634058-497949964.apk","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469634058-497949964.apk'","storageErrors":[],"syscall":"open","timestamp":"2025-09-21T15:47:14.066Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T15:49:33.549Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T15:49:33.574Z"}
+{"level":"info","message":"Starting scan for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:49:45.491Z"}
+{"level":"info","message":"Scan completed for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:49:50.184Z"}
+{"level":"info","message":"Cleaned up file: C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469785161-899652536.apk","timestamp":"2025-09-21T15:49:50.202Z"}
+{"level":"info","message":"Starting scan for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:50:08.068Z"}
+{"level":"info","message":"Scan completed for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:50:12.343Z"}
+{"level":"info","message":"Cleaned up file: C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469807777-250096562.apk","timestamp":"2025-09-21T15:50:12.360Z"}
+{"level":"info","message":"Starting scan for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:50:26.572Z"}
+{"level":"info","message":"Scan completed for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:50:30.870Z"}
+{"level":"info","message":"Cleaned up file: C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469826181-355465411.apk","timestamp":"2025-09-21T15:50:30.886Z"}
+{"level":"info","message":"Starting scan for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:50:40.771Z"}
+{"level":"info","message":"Scan completed for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:50:44.707Z"}
+{"level":"info","message":"Cleaned up file: C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758469840365-841996885.apk","timestamp":"2025-09-21T15:50:44.724Z"}
+{"level":"info","message":"All services initialized successfully","timestamp":"2025-09-21T15:56:49.971Z"}
+{"level":"info","message":"APK Security Scanner running on port 3000","timestamp":"2025-09-21T15:56:49.985Z"}
+{"level":"info","message":"Starting scan [ID: fdc29d9f-5c70-4346-baaa-83cca009403b] for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:57:08.202Z"}
+{"level":"info","message":"[ID: fdc29d9f-5c70-4346-baaa-83cca009403b] Basic analysis complete.","timestamp":"2025-09-21T15:57:08.992Z"}
+{"level":"info","message":"[ID: fdc29d9f-5c70-4346-baaa-83cca009403b] Security scan complete.","timestamp":"2025-09-21T15:57:10.776Z"}
+{"level":"info","message":"[ID: fdc29d9f-5c70-4346-baaa-83cca009403b] Banking characteristics analysis complete.","timestamp":"2025-09-21T15:57:10.783Z"}
+{"level":"info","message":"[ID: fdc29d9f-5c70-4346-baaa-83cca009403b] Threat intelligence check complete.","timestamp":"2025-09-21T15:57:13.161Z"}
+{"level":"info","message":"Scan successful [ID: fdc29d9f-5c70-4346-baaa-83cca009403b] for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:57:13.241Z"}
+{"level":"info","message":"Cleaned up file [ID: fdc29d9f-5c70-4346-baaa-83cca009403b]: C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758470227803-a34b5327-4ecc-44cf-8120-2c5712dcffaa.apk","timestamp":"2025-09-21T15:57:13.355Z"}
+{"level":"info","message":"Starting scan [ID: 801591ac-5689-41cf-9eee-01b5076e009a] for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:57:25.285Z"}
+{"level":"info","message":"[ID: 801591ac-5689-41cf-9eee-01b5076e009a] Basic analysis complete.","timestamp":"2025-09-21T15:57:25.800Z"}
+{"level":"info","message":"[ID: 801591ac-5689-41cf-9eee-01b5076e009a] Security scan complete.","timestamp":"2025-09-21T15:57:27.150Z"}
+{"level":"info","message":"[ID: 801591ac-5689-41cf-9eee-01b5076e009a] Banking characteristics analysis complete.","timestamp":"2025-09-21T15:57:27.153Z"}
+{"level":"info","message":"[ID: 801591ac-5689-41cf-9eee-01b5076e009a] Threat intelligence check complete.","timestamp":"2025-09-21T15:57:29.158Z"}
+{"level":"info","message":"Scan successful [ID: 801591ac-5689-41cf-9eee-01b5076e009a] for: com.neumorphic.calculator_2.apk","timestamp":"2025-09-21T15:57:29.159Z"}
+{"level":"info","message":"Cleaned up file [ID: 801591ac-5689-41cf-9eee-01b5076e009a]: C:\\Users\\launc\\Downloads\\APK-Detector-main\\backend\\uploads\\1758470244987-c6b1e836-e276-46f0-a22a-a10790b2e8b6.apk","timestamp":"2025-09-21T15:57:29.166Z"}

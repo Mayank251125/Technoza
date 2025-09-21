@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technoza APK Detector</title>
+  <style>
+    /* General Reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    }
+    body {
+      background: #f9fafb;
+      color: #333;
+      line-height: 1.6;
+    }
+    /* Header */
+    header {
+      text-align: center;
+      padding: 2rem;
+      background: #0d47a1;
+      color: white;
+      border-bottom-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    header h1 {
+      margin-bottom: 0.5rem;
+    }
+    /* Upload Section */
+    .upload-box {
+      text-align: center;
+      background: white;
+      margin: 2rem auto;
+      padding: 2rem;
+      width: 90%;
+      max-width: 500px;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .upload-label {
+      display: block;
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+      cursor: pointer;
+    }
+    #apkUpload {
+      display: none;
+    }
+    .hint {
+      font-size: 0.85rem;
+      color: #555;
+      margin-top: 0.5rem;
+    }
+    .file-name-display {
+      margin-top: 1rem;
+      font-weight: bold;
+      color: #0d47a1;
+      min-height: 1.2em; /* Reserve space */
+    }
+    .scan-btn {
+      margin-top: 1.5rem;
+      padding: 0.8rem 1.8rem;
+      background: #0d47a1;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      font-size: 1.1rem;
+      cursor: pointer;
+      transition: background-color 0.3s, transform 0.2s;
+    }
+    .scan-btn:hover {
+      background: #1565c0;
+      transform: translateY(-2px);
+    }
+    .scan-btn:disabled {
+      background: #aaa;
+      cursor: not-allowed;
+      transform: translateY(0);
+    }
+    /* Results Section */
+    .results {
+      width: 90%;
+      max-width: 900px;
+      margin: 2rem auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      display: none; /* Initially hidden */
+    }
+    .results h2 {
+      margin-bottom: 1rem;
+      color: #0d47a1;
+    }
+    .status {
+      font-size: 1.7rem;
+      font-weight: bold;
+      margin-bottom: 0.5rem;
+    }
+    .status.suspicious { color: #d32f2f; }
+    .status.safe { color: #2e7d32; }
+    .progress-bar {
+      background: #e0e0e0;
+      border-radius: 10px;
+      height: 20px;
+      margin: 0.5rem 0;
+      overflow: hidden;
+    }
+    .progress {
+      height: 100%;
+      transition: width 0.5s ease-in-out;
+      border-radius: 10px;
+    }
+    .risk-text {
+      margin-bottom: 1.5rem;
+      font-weight: bold;
+      font-size: 1.1rem;
+    }
+    /* Cards Layout */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+    }
+    .card {
+      background: #f9fafb;
+      padding: 1.5rem;
+      border-radius: 10px;
+      border: 1px solid #eee;
+    }
+    .card h3 {
+      margin-bottom: 0.75rem;
+      color: #0d47a1;
+    }
+    .card ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+    .card li {
+        margin-bottom: 0.25rem;
+    }
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Technoza APK Detector</h1>
+    <p>Detect fake banking apps instantly</p>
+  </header>
+
+  <section class="upload-box">
+    <label for="apkUpload" class="upload-label">📂 Upload APK File</label>
+    <input type="file" id="apkUpload" accept=".apk">
+    <p class="hint">Supported file type: .apk (Max size: 200MB)</p>
+    <p class="file-name-display" id="fileNameDisplay"></p>
+    <button class="scan-btn" id="scanBtn">🔍 Scan Now</button>
+  </section>
+
+  <section class="results" id="resultsSection">
+    <h2>RESULTS</h2>
+    <div class="status" id="scanStatus"></div>
+    <div class="progress-bar">
+      <div class="progress" id="progressBarFill"></div>
+    </div>
+    <p class="risk-text" id="riskText"></p>
+    <div class="cards" id="resultsCards"></div>
+  </section>
+
+  <footer>
+    <p>Made at National HackSecure Hackathon 2025 🚀 | Team Technoza</p>
+  </footer>
+
+  <script>
+    const fileInput = document.getElementById('apkUpload');
+    const fileNameDisplay = document.getElementById('fileNameDisplay');
+    const scanButton = document.getElementById('scanBtn');
+    const resultsSection = document.getElementById('resultsSection');
+    const scanStatus = document.getElementById('scanStatus');
+    const progressBarFill = document.getElementById('progressBarFill');
+    const riskText = document.getElementById('riskText');
+    const resultsCards = document.getElementById('resultsCards');
+
+    fileInput.addEventListener('change', (event) => {
+      const file = event.target.files[0];
+      fileNameDisplay.textContent = file ? `Selected File: ${file.name}` : '';
+    });
+
+    scanButton.addEventListener('click', async () => {
+      const file = fileInput.files[0];
+      if (!file) {
+        alert('Please select an APK file to scan.');
+        return;
+      }
+
+      // Prepare UI for a new scan
+      resultsSection.style.display = 'block';
+      scanStatus.textContent = 'Uploading and Scanning...';
+      scanStatus.className = 'status';
+      progressBarFill.style.width = '0%';
+      riskText.textContent = '';
+      resultsCards.innerHTML = '<p>Analyzing, please wait...</p>';
+      scanButton.disabled = true;
+      scanButton.textContent = 'Scanning...';
+
+      const formData = new FormData();
+      formData.append('apk', file);
+
+      try {
+        // Make the API request to the server
+        const response = await fetch('http://localhost:3000/api/scan-apk', {
+          method: 'POST',
+          body: formData,
+        });
+
+        // Try to parse the response as JSON
+        const data = await response.json();
+
+        // Check if the server responded with an error status (e.g., 500)
+        if (!response.ok) {
+          // If the server sent an error message, use it. Otherwise, provide a default.
+          throw new Error(data.message || 'The server returned an error, but did not provide a specific reason.');
+        }
+        
+        // If everything is successful, display the results
+        displayResults(data.result);
+
+      } catch (error) {
+        // This 'catch' block handles all failures: network errors, server crashes, etc.
+        console.error('Scan Error:', error);
+        displayError(error.message); // Display the specific error message to the user
+      } finally {
+        // This always runs, whether the scan succeeded or failed
+        scanButton.disabled = false;
+        scanButton.textContent = '🔍 Scan Now';
+      }
+    });
+
+    function displayResults(result) {
+        const isSuspicious = result.isFake;
+        scanStatus.textContent = isSuspicious ? '❌ SUSPICIOUS' : '✅ LIKELY SAFE';
+        scanStatus.className = `status ${isSuspicious ? 'suspicious' : 'safe'}`;
+        
+        const confidence = result.confidence || 0;
+        progressBarFill.style.width = `${confidence}%`;
+        progressBarFill.style.backgroundColor = isSuspicious ? '#d32f2f' : '#2e7d32';
+        riskText.textContent = `${confidence}% ${isSuspicious ? 'Suspicious' : 'Confidence'}`;
+        
+        resultsCards.innerHTML = ''; // Clear loading message
+
+        // --- Create result cards ---
+        const summaryCard = document.createElement('div');
+        summaryCard.className = 'card';
+        summaryCard.innerHTML = `<h3>Summary</h3><p>${result.summary || 'No summary available.'}</p>`;
+        resultsCards.appendChild(summaryCard);
+
+        if (result.threats && result.threats.length > 0) {
+            const threatsCard = document.createElement('div');
+            threatsCard.className = 'card';
+            threatsCard.innerHTML = `<h3>Threats Detected</h3><ul>${result.threats.map(t => `<li>${t}</li>`).join('')}</ul>`;
+            resultsCards.appendChild(threatsCard);
+        }
+
+        if (result.recommendations && result.recommendations.length > 0) {
+            const recommendationsCard = document.createElement('div');
+            recommendationsCard.className = 'card';
+            recommendationsCard.innerHTML = `<h3>Recommendations</h3><ul>${result.recommendations.map(r => `<li>${r}</li>`).join('')}</ul>`;
+            resultsCards.appendChild(recommendationsCard);
+        }
+    }
+
+    function displayError(message) {
+        scanStatus.textContent = '❌ ANALYSIS FAILED';
+        scanStatus.className = 'status suspicious';
+        riskText.textContent = '';
+        progressBarFill.style.width = '0%';
+        resultsCards.innerHTML = `<div class="card"><h3>Error</h3><p>${message}</p></div>`;
+    }
+  </script>
+
+</body>
+</html>
